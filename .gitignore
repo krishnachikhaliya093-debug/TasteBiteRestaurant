@@ -1,0 +1,9 @@
+.vs/
+**/bin/
+**/obj/
+packages/
+*.csproj.user
+*.suo
+TestBill.pdf
+App_Data/*.mdf
+App_Data/*.ldf
